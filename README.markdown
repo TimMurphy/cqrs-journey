@@ -1,3 +1,7 @@
+# FORK
+
+The sole purpose of this fork is have the solution compile and run on my machine. See commit messages for more details. Use branch `fork/master`.  
+
 ## Microsoft patterns & practices
 # CQRS Journey Reference Implementation
 
