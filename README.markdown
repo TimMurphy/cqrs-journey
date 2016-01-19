@@ -1,6 +1,10 @@
 # FORK
 
-The sole purpose of this fork is have the solution compile and run on my machine. See commit messages for more details. Use branch `fork/master`.  
+The sole purpose of this fork is have the solution compile and run on my machine. See commit messages for more details. Use branch `fork/master`.
+
+See [FORK-README.md](FORK-README.md) for more details about building & running this fork. See the rest of this readme for the official readme.
+
+-------------------------------------------------------
 
 ## Microsoft patterns & practices
 # CQRS Journey Reference Implementation
