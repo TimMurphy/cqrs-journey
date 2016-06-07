@@ -9,7 +9,7 @@ This fork "Work on My Machine" with these prerequisites:
 - Windows 10
 - Microsoft Visual Studio 2015
 - Microsoft Azure Tools - v2.8 (Its probably this comes with Microsoft Visual Studio 2015)
-- [Microsoft SQL Server 2014 Express](https://www.microsoft.com/en-us/download/details.aspx?id=42299) 
+- [Microsoft SQL Server 2016 Express](https://www.microsoft.com/en-us/download/details.aspx?id=52679) 
 
 ## Building CQRS Journey
 
